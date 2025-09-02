@@ -7,6 +7,7 @@ Esse repositório será utilizado para agrupar os códigos que vamos usar na apr
 * Jonathan Neves
 * Thiago Ruan
 * Cidy Wallace
+* Leandro Silva
 
 ---
 
