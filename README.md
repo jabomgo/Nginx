@@ -1,5 +1,7 @@
 # 🌐 Apresentação Prática – Sistemas Distribuídos
 
+Esse repositório será utilizado para agrupar os códigos que vamos usar na apresentação da disciplina de Sistemas Distribuídos.
+
 **Equipe:**
 
 * Jonathan Neves
